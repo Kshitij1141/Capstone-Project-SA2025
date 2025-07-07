@@ -40,7 +40,7 @@ All implementations are built from scratch using
 
 ## Architecture Diagram
 
-```
+---
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/40f9fdd1-d564-47fc-9e50-c2c61a073941)
 

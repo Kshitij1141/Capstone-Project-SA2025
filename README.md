@@ -105,9 +105,8 @@ The purpose of this project is to model an urban parking lot's **real-time dynam
 
 5. **Competitive Pricing (Model 3)**
 
- -By utilizing competitor pricing and location to compare with neighboring parking lots, the Model     
-  2 is improved.
-
+ - By utilizing competitor pricing and location to compare with neighboring parking lots, the Model     
+   2 is improved.
 - Price is dynamically adjusted:
 - Reduce if overworked and cheaper competitors are available.
 - Increase if the prices of competitors are higher.
